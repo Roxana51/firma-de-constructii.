@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Firma de Construcții</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Firma de Construcții XYZ</h1>
+        <p>Profesionalism și calitate în construcții</p>
+    </header>
+
+    <section id="despre">
+        <h2>Despre Noi</h2>
+        <p>Suntem o firmă cu experiență în construcții civile și industriale, oferind servicii de calitate la cele mai bune prețuri.</p>
+    </section>
+
+    <section id="servicii">
+        <h2>Serviciile Noastre</h2>
+        <ul>
+            <li>Construcții case la cheie</li>
+            <li>Renovări și reabilitări</li>
+            <li>Instalații electrice și sanitare</li>
+        </ul>
+    </section>
+
+    <section id="media">
+        <h2>Galerie</h2>
+        <img src="imagine1.jpg" alt="Imagine construcție 1" width="300">
+        <img src="imagine2.jpg" alt="Imagine construcție 2" width="300">
+        <video width="500" controls>
+            <source src="video.mp4" type="video/mp4">
+            Browserul tău nu suportă videoclipuri.
+        </video>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: roxana@firma-constructii.ro</p>
+        <p>Telefon: 0733 567 129</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Firma de Construcții XYZ</p>
+    </footer>
+</body>
+</html>
